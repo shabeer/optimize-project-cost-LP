@@ -1,0 +1,13 @@
+task,prerequisite_tasks,normal_duration_weeks,normal_cost_dollars,crashing_duration_weeks,crashing_cost_dollars
+A," ",1.0,100,0.5,140
+B,A,3.0,150,1.0,270
+C,A,1.0,120,0.5,160
+D,"B,C",1.0,10,1.0,10
+E,D,1.0,225,0.5,300
+F,D,3.0,500,2.0,700
+G,D,3.0,400,1.0,500
+H,G,1.0,150,0.5,170
+I,"F,H",1.5,75,0.5,135
+J,I,1.0,350,0.5,385
+K,I,3.0,450,2.0,540
+L,K,2.0,90,1.5,160
