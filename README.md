@@ -16,4 +16,4 @@
 2. Numpy
 3. Pandas
 
-#### Please checkout Jupyter notebook for details.
+#### Please checkout Jupyter notebook - minimize-project-cost.ipynb for details.
