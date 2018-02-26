@@ -54,7 +54,7 @@ task_L_can_be_reduced_at_max_by_0.5_weeks.: r_L <= 0.5
 task_L_can_be_reduced_by_non_negative_weeks: r_L >= 0
 task_M_can_be_reduced_at_max_by_0.0_weeks.: r_M <= 0
 task_M_can_be_reduced_by_non_negative_weeks: r_M >= 0
-task_M_should_be_started_and_completed_within_K=10.5_weeks.: s_M <= 10.5
+task_M_should_be_started_and_completed_within_K=9.5_weeks.: s_M <= 9.5
 week_at_which_task_A_starts_should_be_non_negative_: s_A >= 0
 week_at_which_task_B_starts_should_be_non_negative_: s_B >= 0
 week_at_which_task_C_starts_should_be_non_negative_: s_C >= 0
